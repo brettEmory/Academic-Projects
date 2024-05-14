@@ -1,0 +1,13 @@
+README
+
+Instructions for Obtaining Output Files:
+
+- After compiling the programs using 'make', you can obtain the output by running each program with the 'make runX' command.
+
+- To run a specific program and redirect its output to a text file, type 'make runX' and press Enter.
+  - Replace 'X' with the program number (e.g., 1 for createThreads, 2 for parallel1, 3 for prallel2, 4 for paralell3).
+
+- This command will automatically compile the specified program and save its output to a text file named 'output_programName.txt', where 'programName' is the name of the program.
+
+- Repeat this process for each program to obtain separate output files.
+
